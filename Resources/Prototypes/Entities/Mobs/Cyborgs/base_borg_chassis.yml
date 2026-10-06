@@ -422,7 +422,7 @@
     spriteLayer: light
   - type: PointLight
     enabled: false
-    lightmask: ConeSingle
+    lightMask: ConeSingle
     autoRot: true
     radius: 4
     netsync: false
