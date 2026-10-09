@@ -4327,3 +4327,11 @@ Entries:
       message: Falcon foi removido da rotação de mapas.
   id: 518
   time: '2026-10-07T22:15:28.0000000+00:00'
+- author: OnFeKion
+  changes:
+    - type: Tweak
+      message: >-
+        Adiciona o óculos de Varredura de Engenharia ao Armário do Engenheiro
+        Chefe
+  id: 519
+  time: '2026-10-09T14:40:46.0000000+00:00'
